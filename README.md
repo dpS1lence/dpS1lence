@@ -1,15 +1,12 @@
-- [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-- 
 - 🌱 I’m currently learning : ASP.net
 - 👯 I’m looking to collaborate on : ASP.net project
 - 📫 How to reach me: davidpetkov2006@gmail.com
 - 📱 Instagram: @davidpetkov_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpS1lence)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dpS1lence)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Pinned Repositories -- >
 
