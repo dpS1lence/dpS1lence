@@ -2,6 +2,6 @@
 - 👯 I’m looking to collaborate on : ASP.net project
 - 📫 How to reach me: davidpetkov2006@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![David's github stats](https://github-readme-stats.vercel.app/api?username=dpS1lence)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpS1lence)](https://github.com/dpS1lence/github-readme-stats)
