@@ -5,9 +5,6 @@
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpS1lence)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- Pinned Repositories -- >
 
 <a href="https://github.com/dpS1lence/SkyAdventure">
