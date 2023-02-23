@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning : ASP.net
 - 👯 I’m looking to collaborate on : ASP.net project
 - 📫 How to reach me: davidpetkov2006@gmail.com
-- 📱 Instagram: @davidpetkov_
+- ✨18.04.2006
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
