@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning : ASP.net
+- 🌱 I’m currently learning : Java Script, C++, Python
 - 👯 I’m looking to collaborate on : ASP.net project
 - 📫 How to reach me: davidpetkov2006@gmail.com
 - ✨18.04.2006
