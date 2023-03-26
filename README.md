@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dps1lence" alt="dps1lence" /></a> </p>
 
-- 🔭 I’m currently working on [Notiflex](https://github.com/dpS1lence/Notiflex)
+- 🔭 I’m currently working on [Notiflex](https://github.com/dpS1lence/Notiflex) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
 
 - 🌱 I’m currently learning **Java-Script, C++, Python**
 
