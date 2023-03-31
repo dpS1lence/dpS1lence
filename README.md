@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate backend developer and 3D artist</h3>
+<h3 align="center">Hi, my name is David and I'm 16 years old. I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity and Blender.
+I would describe myself as an extroverted and funny person. I'm always super motivated and I love learning new things, which is why I'm constantly trying to expand my knowledge and skill set.
+Overall, I'm excited about what the future holds and can't wait to see where my passion for programming takes me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1lence&label=Profile%20views&color=0e75b6&style=flat" alt="dps1lence" /> </p>
 
