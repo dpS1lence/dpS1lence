@@ -37,7 +37,7 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dps1lence&show_icons=true&locale=en&layout=compact" alt="dps1lence" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dps1lence&show_icons=true&locale=en" alt="dps1lence" /></p>
 
-<h1 align="center">Certificates</h1>
+<h3 align="left">Certificates</h3>
 
 - [Programming Basics C#](https://softuni.bg/certificates/details/112127/85953e4a)
 
