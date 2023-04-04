@@ -5,8 +5,6 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1lence&label=Profile%20views&color=0e75b6&style=flat" alt="dps1lence" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dps1lence" alt="dps1lence" /></a> </p>
-
 - 🔭 I’m currently working on [Notiflex](https://github.com/dpS1lence/Notiflex) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
 
 - 🌱 I’m currently learning **JS, C++, Python**
