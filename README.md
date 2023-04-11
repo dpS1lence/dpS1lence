@@ -7,7 +7,7 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 
 - 🔭 I’m currently working on [Notiflex](https://github.com/dpS1lence/Notiflex) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
 
-- 🌱 I’m currently learning **JS, C++, Python**
+- 🌱 I’m currently learning **Docker, Microservices Architecture, Python**
 
 - 👯 I’m looking to collaborate on **ASP.NET Project**
 
