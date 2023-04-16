@@ -30,7 +30,7 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 <a href="https://stackoverflow.com/users/17166571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17166571" height="30" width="40" /></a>
 <a href="https://instagram.com/davidpetkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidpetkov_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@davidpetkov9473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@davidpetkov9473" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Wg6BHusK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/445627194782384138" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/445627194782384138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/445627194782384138" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
