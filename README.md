@@ -15,15 +15,9 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 
 - 👯 I’m looking to collaborate on **ASP.NET Project**
 
-- 👨‍💻 All of my projects are available at [soon](https://github.com/dpS1lence)
-
 - 💬 Ask me about **C#, Unity, Blender 3D**
 
 - 📫 How to reach me **davidpetkov2006@gmail.com**
-
-- 📄 Know about my experiences [soon](https://github.com/dpS1lence)
-
-- ⚡ Fun fact **I think i am good at programming...**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
