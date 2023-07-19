@@ -9,7 +9,7 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1lence&label=Profile%20views&color=0e75b6&style=flat" alt="dps1lence" /> </p>
 
-- 🔭 I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify) and [CSGO-PhoenixLoader](https://github.com/dpS1lence/CSGO-PhoenixLoader)
+- 🔭 I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify)
 
 - 🌱 I’m currently learning **Docker, Microservices Architecture, Python**
 
