@@ -13,8 +13,6 @@ Overall, I'm excited about what the future holds and can't wait to see where my 
 
 - 🌱 I’m currently learning **Docker, Microservices Architecture, Python**
 
-- 👯 I’m looking to collaborate on **ASP.NET Project**
-
 - 💬 Ask me about **C#, Unity, Blender 3D**
 
 - 📫 How to reach me **davidpetkov2006@gmail.com**
