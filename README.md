@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-</div>
 <h3 align="center">Hi, my name is David and I'm 17 years old (18.04.2006). I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1lence&label=Profile%20views&color=0e75b6&style=flat" alt="dps1lence" /> </p>
 
 - 🔭 I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify)
 
