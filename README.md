@@ -23,6 +23,10 @@
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=dpS1lence&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></p>
 <p>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpS1lence&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
 
+<h3 align="left">Diplomas</h3>
+
+- [C# Web Developer](https://softuni.bg/certificates/details/185049/edbee509)
+
 <h3 align="left">Certificates</h3>
 
 - [Programming Basics C#](https://softuni.bg/certificates/details/112127/85953e4a)
