@@ -23,11 +23,14 @@
 
 # My Projects and Awards
 ## The majority of these projects were developed collaboratively, with a consistent team of two, fostering a synergistic environment that encouraged creativity and efficiency.
-## Insightify
+## 🏆🥇Insightify
 
 **Creation Date:** 06/2023
 
 **End Date:** Present
+
+**Awards:** 
+- 1st place in the national IT tournament 'John Atanasoff'
 
 **Description:** 
 - Currently developing this project
@@ -42,7 +45,7 @@
 **End Date:** 29/10/2023 (48h project)
 
 **Awards:** 
-- 2th place in the national Softuni Fest
+- 2nd place in the national Softuni Fest
   
 **Links:**
 [Github](https://github.com/ImSk1/SoftUni-Fest-2023)
@@ -66,9 +69,9 @@
 **End Date:** 5/2023
 
 **Awards:** 
-- 2th place in the regional round of the IT Olympiad
-- 2st place at IT World - National Tournament in Information Technology
-- 6st place at Softuniada
+- 2nd place in the regional round of the IT Olympiad
+- 2nd place at IT World - National Tournament in Information Technology
+- 6th place at Softuniada
   
 **Links:**
 [Github](https://github.com/dpS1lence/Notiflex)
@@ -108,7 +111,7 @@
 
 **Awards:** 
 - 6th place in the national round of the IT Olympiad
-- 2st place at IT World - National Tournament in Information Technology
+- 2nd place at IT World - National Tournament in Information Technology
 
 **Links:**
 [Youtube](https://youtu.be/9SmGhx5xgIE)
@@ -122,7 +125,7 @@
 
 **Awards:** 
 - 8th place in the national round of the IT Olympiad
-- 2st place at IT World - National Tournament in Information Technology
+- 2nd place at IT World - National Tournament in Information Technology
 
 **Links:**
 [Youtube](https://youtu.be/tfAjAN2DhQA)
