@@ -24,6 +24,7 @@
 **End Date:** Present
 
 **Awards:** 
+- 1st prize with gold medals at the Bulgarian Mathematical Society's Student Science Section
 - 1st place in the national IT tournament 'John Atanasoff'
 
 **Description:** 
