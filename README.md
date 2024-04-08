@@ -19,9 +19,9 @@
 ## The majority of these projects were developed collaboratively, with a consistent team of two, fostering a synergistic environment that encouraged creativity and efficiency.
 ## 🏆🥇Insightify
 
-**Creation Date:** 06/2023
+**Creation Date:** 04/2023
 
-**End Date:** Present
+**End Date:** 04/2024
 
 **Awards:** 
 - 1st prize with gold medals at the Bulgarian Mathematical Society's Student Science Section
@@ -45,11 +45,11 @@
 **Links:**
 [Github](https://github.com/ImSk1/SoftUni-Fest-2023)
 
-## 🏆 Melon bookshelf
+## Melon bookshelf
 
-**Creation Date:** 27/10/2023
+**Creation Date:** 01/07/2023
 
-**End Date:** 29/10/2023 (48h project)
+**End Date:** 15/07/2023
 
 **Description:** 
 - During my school internship at a prominent software company, I spearheaded a standout project (with the help of one of my classmates) that was recognized as the most exceptional among my classmates.
