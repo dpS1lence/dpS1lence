@@ -133,7 +133,7 @@
 
 **Links:**
 I have made many 3d models, but the only time i have shared them with the public is with this video.
-[Youtube](https://youtu.be/tfAjAN2DhQA)
+[Youtube](https://youtu.be/bjuBFAzm1-k)
 
 # Diplomas
 
