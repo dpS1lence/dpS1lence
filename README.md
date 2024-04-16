@@ -125,6 +125,16 @@
 **Links:**
 [Youtube](https://youtu.be/tfAjAN2DhQA)
 
+## Blender 3D Models and Projects
+
+**Start Date:** 12/2017
+
+**End Date:** Present
+
+**Links:**
+I have made many 3d models, but the only time i have shared them with the public is with this video.
+[Youtube](https://youtu.be/tfAjAN2DhQA)
+
 # Diplomas
 
 - [C# Web Developer](https://softuni.bg/certificates/details/185049/edbee509)
