@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3>Hi, my name is David and I'm 17 years old (18.04.2006). I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
+<h3>Hi, my name is David and I'm 18 years old (18.04.2006). I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
 
 - 🔭 I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify)
 
