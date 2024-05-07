@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3>Hi, my name is David! I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
 
-- 🔭 I’m currently working on [Insightify](https://github.com/DEVids-VT/Insightify)
+- 🔭 I’m currently working on [Tap & Eat](https://github.com/DEVids-VT/TapAndEat) and [Cooking App](https://github.com/InternAcademy/CookingApp)
 
-- 🌱 I’m currently learning **Docker, Microservices Architecture, Python**
+- 🌱 I’m currently learning **Docker, Azure, Python**
 
-- 💬 Ask me about **C#, Unity, Blender 3D**
+- 💬 Ask me about **C#, .NET, Unity, Blender 3D**
 
-- 📫 How to reach me **davidpetkov2006@gmail.com**
+- 📫 How to reach me fast **davidpetkov2006@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 # My Projects and Awards
-## The majority of these projects were developed collaboratively, with a consistent team of two, fostering a synergistic environment that encouraged creativity and efficiency.
+## The majority of these projects were developed collaboratively.
 ## 🏆🥇Insightify
 
 **Creation Date:** 04/2023
@@ -28,7 +28,7 @@
 - 1st place in the national IT tournament 'John Atanasoff'
 
 **Description:** 
-- Currently developing this project
+- Insightify is an innovative platform designed for tracking cryptocurrencies, news, and social posts. The system is optimized for high performance and scalability to serve a large number of users seamlessly.
   
 **Links:**
 [Github](https://github.com/DEVids-VT/Insightify)
