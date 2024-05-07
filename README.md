@@ -14,6 +14,8 @@
 <a href="https://instagram.com/davidpetkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidpetkov_" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/davidpetkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
 </p>
+
+
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
 # My Projects and Awards
