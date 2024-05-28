@@ -18,7 +18,7 @@
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
-# My ![Projects and Awards](https://github.com/dpS1lence/Personal-Projects)
+# My Successful ![Projects and Awards](https://github.com/dpS1lence/Personal-Projects)
 - ![Link to Readme](https://github.com/dpS1lence/Personal-Projects)
 
 # Diplomas
