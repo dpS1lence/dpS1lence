@@ -21,6 +21,8 @@
 # My Successful ![Projects and Awards](https://github.com/dpS1lence/Personal-Projects)
 - ![Link to Readme](https://github.com/dpS1lence/Personal-Projects)
 
+# SoftUni blog post - ![David's success story](https://softuni.bg/blog/softuni-success-story-2024-david-petkov#)
+
 # Diplomas
 
 - [C# Web Developer](https://softuni.bg/certificates/details/185049/edbee509)
