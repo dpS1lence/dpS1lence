@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3>Hi, my name is David! I have a strong passion for the digital world. I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
+<h3>Hi, my name is David! I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
 
 - 🔭 I’m currently working on [Tap & Eat](https://github.com/DEVids-VT/TapAndEat) and leading [Cooking App](https://github.com/InternAcademy/CookingApp)
 
@@ -8,13 +8,6 @@
 - 💬 Ask me about **C#, .NET, Unity, Blender 3D**
 
 - 📫 How to reach me fast **davidpetkov2006@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://instagram.com/davidpetkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidpetkov_" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/davidpetkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
-</p>
-
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
