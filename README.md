@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3>Hi, my name is David! I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
 
-- 🔭 I’m currently working on [HoTeach](https://github.com/hoteach), [Lyuinsy Jewelry] (https://github.com/dpS1lence/Lyuinsy-Jewelry-Web), [St. Three Saints web](https://github.com/dpS1lence/sveti-tri-svetiteli) and building [Devids](https://github.com/DEVids-VT)
+- 🔭 I’m currently working on [HoTeach](https://github.com/hoteach), [Lyuinsy Jewelry](https://github.com/dpS1lence/Lyuinsy-Jewelry-Web), [St. Three Saints web](https://github.com/dpS1lence/sveti-tri-svetiteli) and [Devids](https://github.com/DEVids-VT)
 
 
 - 🌱 I’m currently learning **Docker, Azure, Python**
