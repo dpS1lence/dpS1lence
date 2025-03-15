@@ -1,44 +1,26 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3>Hi, my name is David! I've had some successful projects that were awarded with gold medals and diplomas. I have knowledge in C#, JavaScript, HTML, CSS, ASP.NET, as well as Unity, Blender 3D and other technologies.</h3>
+# 🚀 Welcome to My World of Innovation!  
+![Davidgutreadmeimg](https://github.com/user-attachments/assets/1110f84c-48f5-4160-bbc8-4d0bbf185171)
+I'm a **Web developer** with a passion for crafting powerful software solutions—ranging from dynamic web applications to business automation tools. My journey in tech has been fueled by creativity, problem-solving, and a relentless drive to push the boundaries of what's possible.  
 
-- 🔭 I’m currently working on [HoTeach](https://github.com/hoteach), [Lyuinsy Jewelry](https://github.com/dpS1lence/Lyuinsy-Jewelry-Web), [St. Three Saints web](https://github.com/dpS1lence/sveti-tri-svetiteli) and [Devids](https://github.com/DEVids-VT)
+## 🏆 Award-Winning  
+With multiple IT competition wins under my belt, I thrive on challenges that demand both technical expertise and innovation.  
 
+## 👨‍🏫 Passionate Teacher
+I love sharing knowledge and empowering others to become great engineers.  
 
-- 🌱 I’m currently learning **Docker, Azure, Python**
+## 💡 Big Vision for the Future  
+I am building **HoTeach**, a learning platform that redefines how people learn to create software.  
+**HoTeach** introduces a **revolutionary approach** to engineering education—leveraging tools, collaborative environments, and a new methodology that accelerates development.  
 
-- 💬 Ask me about **C#, .NET, Unity, Blender 3D**
+## 🌍 Expanding the Vision  
+This isn’t just a platform—it’s a movement. The future of **HoTeach** includes:  
+- Specialized **bootcamps**  
+- **Private schools** for entrepreneurs  
+- **Competitions** that drive innovation  
 
-- 📫 How to reach me fast **davidpetkov2006@gmail.com**
+I believe in **reshaping how we teach, learn, and create**—empowering the next generations of creators.  
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpS1lence&show_icons=true&theme=transparent)
 
 # My Successful Projects and Awards
 - [Awards readme](https://github.com/dpS1lence/Personal-Projects)
-
-# Diplomas
-
-- [C# Web Developer](https://softuni.bg/certificates/details/185049/edbee509)
-  
-# Certificates
-
-- [Programming Basics C#](https://softuni.bg/certificates/details/112127/85953e4a)
-
-- [Programming Fundamentals C#](https://softuni.bg/certificates/details/120068/1296d812)
-
-- [C# Advanced](https://softuni.bg/certificates/details/123636/ad67a0c6)
-
-- [C# OOP](https://softuni.bg/certificates/details/130972/e93e5f4b)
-
-- [MS SQL](https://softuni.bg/certificates/details/134977/ce2b152e)
-
-- [Entity Framework Core](https://softuni.bg/certificates/details/138423/a1f89ba3)
-
-- [ASP.NET Fundamentals](https://softuni.bg/certificates/details/146659/e92718ae)
-
-- [ASP.NET Advanced](https://softuni.bg/certificates/details/152375/c2fad749)
-
-- [HTML & CSS](https://softuni.bg/certificates/details/163279/f11528ed)
-
-- [JS Front End](https://softuni.bg/certificates/details/168430/4807abf0)
- 
-- [Containers and Cloud](https://softuni.bg/certificates/details/174407/b7ef8a44)
+- [C# Web Developer diploma](https://softuni.bg/certificates/details/185049/edbee509)
