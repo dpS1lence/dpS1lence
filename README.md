@@ -1,26 +1,26 @@
-# 🚀 Welcome to My World of Innovation!  
-![Davidgutreadmeimg](https://github.com/user-attachments/assets/1110f84c-48f5-4160-bbc8-4d0bbf185171)
-I'm a **Web developer** with a passion for crafting powerful software solutions—ranging from dynamic web applications to business automation tools. My journey in tech has been fueled by creativity, problem-solving, and a relentless drive to push the boundaries of what's possible.  
+# 🚀 Welcome to My World!  
 
-## 🏆 Award-Winning  
-With multiple IT competition wins under my belt, I thrive on challenges that demand both technical expertise and innovation.  
+![Lucid_Realism_A_stunning_cosmic_scene_featuring_a_single_lumin_1](https://github.com/user-attachments/assets/b39f0b04-ba08-4f2f-92a2-154d04f52b8e)
 
-## 👨‍🏫 Passionate Teacher
-I love sharing knowledge and empowering others to become great engineers.  
+I’m David Petkov.
 
-## 💡 Big Vision for the Future  
-I am building **HoTeach**, a learning platform that redefines how people learn to create software.  
-**HoTeach** introduces a **revolutionary approach** to engineering education—leveraging tools, collaborative environments, and a new methodology that accelerates development.  
+### About me
 
-## 🌍 Expanding the Vision  
-This isn’t just a platform—it’s a movement. The future of **HoTeach** includes:  
-- Specialized **bootcamps**  
-- **Private schools** for entrepreneurs  
-- **Competitions** that drive innovation  
+I’ve built over 30 complete projects — many of them done as a hobby or for small businesses and competitions. These range from simple web apps to full-scale microservice platforms using .NET and other technologies.
 
-I believe in **reshaping how we teach, learn, and create**—empowering the next generations of creators.  
+I’ve won 10 national awards in IT. In 2024, I led a team of 8 developers on **MealMaster**, a smart kitchen assistant — I was responsible for the technical direction of the project.
 
+![fb-cover](https://github.com/user-attachments/assets/1a90b09f-59b2-4704-b84e-6152a30c9c61)
+
+Right now, I’m working on building **Devids**, an IT company co-founded with David Hristov. Our goal is to create software that solves real-world problems across different industries.
+
+### What drives me
+
+My goal is to create value.
+
+I build things that matter. That’s the only kind of wealth that counts.
 
 # My Successful Projects and Awards
+
 - [Awards readme](https://github.com/dpS1lence/Personal-Projects)
 - [C# Web Developer diploma](https://softuni.bg/certificates/details/185049/edbee509)
