@@ -1,4 +1,4 @@
-# 🚀 Welcome to My World!  
+# Welcome to My World!  
 
 ![Lucid_Realism_A_stunning_cosmic_scene_featuring_a_single_lumin_1](https://github.com/user-attachments/assets/b39f0b04-ba08-4f2f-92a2-154d04f52b8e)
 
