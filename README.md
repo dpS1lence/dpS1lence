@@ -2,8 +2,6 @@
 
 ![Lucid_Realism_A_stunning_cosmic_scene_featuring_a_single_lumin_1](https://github.com/user-attachments/assets/b39f0b04-ba08-4f2f-92a2-154d04f52b8e)
 
-I’m David Petkov.
-
 ### About me
 
 I’ve built over 30 complete projects — many of them done as a hobby or for small businesses and competitions. These range from simple web apps to full-scale microservice platforms using .NET and other technologies.
